@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="authenticator_app">Authenticator App</string>
+</resources>
